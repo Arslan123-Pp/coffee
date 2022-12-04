@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>783</width>
-    <height>400</height>
+    <width>716</width>
+    <height>460</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -18,7 +18,7 @@
     <rect>
      <x>5</x>
      <y>0</y>
-     <width>771</width>
+     <width>701</width>
      <height>401</height>
     </rect>
    </property>
@@ -57,6 +57,32 @@
      <string>volume</string>
     </property>
    </column>
+  </widget>
+  <widget class="QPushButton" name="btn">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>410</y>
+     <width>171</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Добавить/изменить</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnp">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>410</y>
+     <width>131</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Перезагрузить</string>
+   </property>
   </widget>
  </widget>
  <resources/>
