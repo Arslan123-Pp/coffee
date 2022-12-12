@@ -7,7 +7,7 @@ import sqlite3
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 
-con = sqlite3.connect("coffee.db")
+con = sqlite3.connect("data/coffee.db")
 cur = con.cursor()
 
 
